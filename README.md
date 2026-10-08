@@ -7,7 +7,8 @@
 
 ## Ouput
 <img width="959" height="539" alt="Screenshot 2026-10-07 205406" src="https://github.com/user-attachments/assets/4122628d-b220-4c72-908b-baf0b1d837e2" />
-<img width="959" height="566" alt="Screenshot 2026-10-07 205419" src="https://github.com/user-attachments/assets/fba9700a-a3ed-4499-81dc-571be7553ca8" />
+<img width="702" height="443" alt="Screenshot 2026-10-08 105221" src="https://github.com/user-attachments/assets/33fa02d6-b0eb-45b7-b320-5a0a687295b6" />
+
 
 
 ## Penjelasan
@@ -23,6 +24,8 @@ Lalu menambahkan function simpan_data agar data yang telah diinputkan bisa tersi
 4.<img width="688" height="122" alt="Screenshot 2026-10-07 210756" src="https://github.com/user-attachments/assets/a269d13f-a695-480c-a846-e7c6677c5ba1" />
 Lalu saya membuat list program yang ingin dijalankan seperti, lihat data, tambah data, keluar dari program, dan menambahkan inputan aagar user bisa menginput data.
 
-5.<img width="685" height="305" alt="Screenshot 2026-10-07 210828" src="https://github.com/user-attachments/assets/938f9cdf-c57f-4e7e-9166-c3c53a940bdc" />
+5.<img width="681" height="259" alt="Screenshot 2026-10-08 104838" src="https://github.com/user-attachments/assets/c3feb266-61e2-4334-94bf-6ea6e3e3b0ba" />
+jika memilih input 1 mka akan menampilkan data yang telah tersimpan di son. Jika memilih input 2 maka akan disuruh untuk input nama, nilai, dan kelas lalu datanya akan di simpan di file json. dengan memanggil function tambah_data dan simpan_file(). Jika menginput angka selain 1-3 maka program akan mebertiahu untuk mengulangi lagi dan mengulang ke bagain input
 
 6.<img width="743" height="40" alt="Screenshot 2026-10-07 210834" src="https://github.com/user-attachments/assets/c09b3705-343a-4996-adc3-9c4773607150" />
+Lalu memanggil rekap_nilai()
