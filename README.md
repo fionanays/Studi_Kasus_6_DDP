@@ -3,6 +3,9 @@
 ## Nama: Fiona Deandra Liani
 ## NIM: 2609116053
 
+# Deskripsi
+SISTEM REKAP NILAI SISWA, sebuah sistem yang digunakan seorang guru atau praktisi agar mempermudah mereka dalam menginput atau memasukkan data siswa dengan mudah tanpa harus mengetik semuanya satu persatu.
+
 # Program
 
 ## Ouput
@@ -10,8 +13,7 @@
 <img width="702" height="443" alt="Screenshot 2026-10-08 105221" src="https://github.com/user-attachments/assets/33fa02d6-b0eb-45b7-b320-5a0a687295b6" />
 
 
-
-## Penjelasan
+## Penjelasan Pyhton
 1.<img width="693" height="80" alt="Screenshot 2026-10-07 210700" src="https://github.com/user-attachments/assets/fbd4544d-d44e-4a8d-a527-8a3e421215ac" />
 Saya menggunakan membaca file json cara 1, dengan mengetikkan nama file json tujuan.
 
@@ -29,3 +31,6 @@ jika memilih input 1 mka akan menampilkan data yang telah tersimpan di son. Jika
 
 6.<img width="743" height="40" alt="Screenshot 2026-10-07 210834" src="https://github.com/user-attachments/assets/c09b3705-343a-4996-adc3-9c4773607150" />
 Lalu memanggil rekap_nilai()
+
+## JSON
+<img width="959" height="567" alt="Screenshot 2026-10-07 205618" src="https://github.com/user-attachments/assets/4fc18b7c-fff4-4805-a1c7-45eb74cdd4d5" />
